@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aarti
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full stack web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me My linkedIn profile is https://www.linkedin.com/in/aarti-singh-34704b203/
 
 <!---
